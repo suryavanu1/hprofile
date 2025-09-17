@@ -1,8 +1,1 @@
-name: Hprofilenewvanu Actions
-on: workflow_dispatch
-jobs:
-  Testing:
-    runs-on:ubuntu-latest
-    steps:
-      - name: Testing workflow
-        run: echo "Workflow works"
+
